@@ -54,9 +54,9 @@
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
-            <p>Email: info@hadydtools.com</p>
-            <p>Phone: +123 456 7890</p>
-            <p>Location: Your Shop Address</p>
+            <p>Email: info@hadydtoolselectricals.com</p>
+            <p>Phone: +254746998033</p>
+            <p>Location:Kisumu At Oginga odinga Street</p>
         </section>
     </div>
     <footer>
